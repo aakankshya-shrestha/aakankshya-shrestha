@@ -1,16 +1,28 @@
-## Hi there 👋
+##👋 Hi, I’m Aakankshya Shrestha
+I’m a developer & designer who loves bringing ideas to life — from sketches to wireframes in Figma and finally bringing everything together with coding. 
 
-<!--
-**aakankshya-shrestha/aakankshya-shrestha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 About Me
+🎓 M.S. in Computer Science, recent graduate
+🎮 Building mobile AR/3D games 
+✏️ Comfortable working on both design (UI/UX, 3D art) and development (front-end, gameplay, systems, back-end)
+📚 Published research papers on game dev & software engineering
+✨ Passionate about blending technology + design to make engaging user experiences
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+###🎨 Design & Creative
+UI/UX: Figma, Photoshop, Illustrator
+3D Assets & Animation: Blender
+Game Art & Visuals: Unity VFX, Materials, Texturing
+
+### 💻 Development
+Languages: C#, Python, JavaScript, SQL, HTML, CSS
+Game Engines: Unity
+Web: React, Node.js
+Databases: Firebase (Firestore, Realtime DB, Auth), Sqlite3
+
+###⚡ Other
+Version Control: Git/GitHub
+Agile/Scrum teamwork
+Deployments: Vercel, Netlify, itch.io
