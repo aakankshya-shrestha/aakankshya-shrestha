@@ -16,10 +16,10 @@ I also enjoy making games as passion projects.
 - Game Art & Visuals: Unity VFX, Materials, Texturing
 
 ### 💻 Development
-- Languages: C#, Python, JavaScript, SQL, HTML, CSS
-- Game Engines: Unity
-- Web: React, Node.js
-- Databases: Firebase (Firestore, Realtime DB, Auth), Sqlite3
+- Languages: JavaScript, HTML/CSS, Python, C# (Unity), SQL, Java
+- Front-End Frameworks: React, Bootstrap, Material-UI
+- Back-End / Full-Stack: Node.js, Firebase(Auth and Firestore), FastAPI
+- Developer Tools: Git, Docker, VS Code, Visual Studio, IntelliJ, AWS Cloud Services
 
 ### ⚡ Other
 - Version Control: Git/GitHub
