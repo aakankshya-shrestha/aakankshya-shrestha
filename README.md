@@ -2,11 +2,11 @@
 I’m a developer & designer who loves bringing ideas to life — from sketches to wireframes in Figma and finally bringing everything together with coding. 
 
 ## 🌱 About Me
-🎓 M.S. in Computer Science, recent graduate
-🎮 Building mobile AR/3D games 
-✏️ Comfortable working on both design (UI/UX, 3D art) and development (front-end, gameplay, systems, back-end)
-📚 Published research papers on game dev & software engineering
-✨ Passionate about blending technology + design to make engaging user experiences
+- 🎓 M.S. in Computer Science, recent graduate
+- 🎮 Building mobile AR/3D games 
+- ✏️ Comfortable working on both design (UI/UX, 3D art) and development (front-end, gameplay, systems, back-end)
+- 📚 Published research papers on game dev & software engineering
+- ✨ Passionate about blending technology + design to make engaging user experiences
 
 
 ## 🛠️ Skills & Tools
