@@ -22,7 +22,7 @@ I’m a developer & designer who loves bringing ideas to life — from sketches 
 - Web: React, Node.js
 - Databases: Firebase (Firestore, Realtime DB, Auth), Sqlite3
 
-###⚡ Other
+### ⚡ Other
 - Version Control: Git/GitHub
 - Agile/Scrum teamwork
 - Deployments: Vercel, Netlify, itch.io
