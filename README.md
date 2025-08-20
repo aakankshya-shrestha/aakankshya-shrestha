@@ -1,4 +1,4 @@
-##👋 Hi, I’m Aakankshya Shrestha
+## 👋 Hi, I’m Aakankshya Shrestha
 I’m a developer & designer who loves bringing ideas to life — from sketches to wireframes in Figma and finally bringing everything together with coding. 
 
 ## 🌱 About Me
@@ -11,18 +11,18 @@ I’m a developer & designer who loves bringing ideas to life — from sketches 
 
 ## 🛠️ Skills & Tools
 
-###🎨 Design & Creative
-UI/UX: Figma, Photoshop, Illustrator
-3D Assets & Animation: Blender
-Game Art & Visuals: Unity VFX, Materials, Texturing
+### 🎨 Design & Creative
+- UI/UX: Figma, Photoshop, Illustrator
+- 3D Assets & Animation: Blender
+- Game Art & Visuals: Unity VFX, Materials, Texturing
 
 ### 💻 Development
-Languages: C#, Python, JavaScript, SQL, HTML, CSS
-Game Engines: Unity
-Web: React, Node.js
-Databases: Firebase (Firestore, Realtime DB, Auth), Sqlite3
+- Languages: C#, Python, JavaScript, SQL, HTML, CSS
+- Game Engines: Unity
+- Web: React, Node.js
+- Databases: Firebase (Firestore, Realtime DB, Auth), Sqlite3
 
 ###⚡ Other
-Version Control: Git/GitHub
-Agile/Scrum teamwork
-Deployments: Vercel, Netlify, itch.io
+- Version Control: Git/GitHub
+- Agile/Scrum teamwork
+- Deployments: Vercel, Netlify, itch.io
