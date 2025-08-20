@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Aakankshya Shrestha
-I’m a developer & designer who loves bringing ideas to life — from sketches to wireframes in Figma and finally bringing everything together with coding. 
+Aspiring Front-End Software Engineer with experience in JavaScript, React, and UI/UX design, building interactive web and AR applications.
 
 ## 🌱 About Me
 - 🎓 M.S. in Computer Science, recent graduate
