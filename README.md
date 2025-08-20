@@ -6,8 +6,7 @@ I’m a developer & designer who loves bringing ideas to life — from sketches 
 - 🎮 Building mobile AR/3D games 
 - ✏️ Comfortable working on both design (UI/UX, 3D art) and development (front-end, gameplay, systems, back-end)
 - 📚 Published research papers on game dev & software engineering
-- ✨ Passionate about blending technology + design to make engaging user experiences
-
+- ✨ Passionate about blending technology + design 
 
 ## 🛠️ Skills & Tools
 
